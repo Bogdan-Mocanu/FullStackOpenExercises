@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.notification-default {
+  color: grey;
+}
+
+.notification-add {
+  color: green;
+}
+
+.notification-error {
+  color: red;
+}
+
+.notification-update {
+  color: blue;
+}
