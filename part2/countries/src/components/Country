@@ -1,0 +1,8 @@
+
+const Country = ({val}) => (
+    <div>
+        <p>{val.name.common} {val.name.official}</p>
+    </div>
+)
+
+export default Country
